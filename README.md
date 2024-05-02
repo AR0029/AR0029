@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AR0029
+- 👋 Hi, I’m Aryan Chaudhary
 - 👀 I’m interested in Astrophysics,app development.
 - 🌱 I’m currently pursuing B.tech CSE with Cyber Security.
 - 📫 How to reach me - workspace.aryan@gmail.com
