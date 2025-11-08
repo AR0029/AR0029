@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aryan Chaudhary
 - 👀 I’m interested in Astrophysics,app development.
-- 🌱 I’m currently pursuing B.tech CSE with Cyber Security.
+- 🌱 I’m currently pursuing M.tech CSE with Cyber Security.
 - 📫 How to reach me - workspace.aryan@gmail.com
 - ⚡ Fun fact: I'm a Gamer too
 
